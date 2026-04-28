@@ -1,0 +1,45 @@
+section,item,value
+meta,page_number,1
+meta,slip_number,OF2902-8411
+meta,department,ATC
+meta,cnic,42201-8335319-5
+meta,employee_name,ABDUL MUSAWWER
+meta,designation,DIRECTOR
+meta,organization,PAKISTAN AIRPORTS AUTHORITY
+meta,location,HEADQUARTERS
+meta,grade,EG-05 200 . OPERATION
+meta,bank,HABIB BANK LIMITED
+meta,branch,J.T.C. BRANCH KARACHI
+meta,city,KARACHI
+meta,month,May-2026
+meta,account_number,00647900484603
+earning,BASIC PAY,194080.00
+earning,HOUSE RENT,155264.00
+earning,M/CYCLE MAINT.,9244.00
+earning,FUEL,54339.00
+earning,ENTERTAINMENT,2500.00
+earning,UTILITY,48520.00
+earning,MEDICAL,48520.00
+earning,RATING,155264.00
+earning,ATCL ALLOWANCE,38816.00
+earning,CATEGORIZATION ALL.,800.00
+earning,ADHOC RELIEF-2023 20%,28872.00
+earning,ADHOC RELIEF 2024 30%,49029.00
+deduction,GP FUND,14787.00
+deduction,GRP INSURANCE,1090.00
+deduction,BENEVOLENT FUND,960.00
+deduction,WELFARE FUND,400.00
+deduction,AL-SHIFA TRUST,200.00
+deduction,ATC GUILD CONTR. FUND,1500.00
+deduction,INCOME TAX,206587.00
+deduction,CAR ADVANCE,41500.00
+deduction,GPF ADVANCE,23375.00
+summary,YTD EARN,
+summary,YTD DED,
+summary,YTD TAX,
+summary,"GROSS EARNINGS 785,248.00 TOTAL DEDUCTIONS 290,399.00 NET PAY",494849.00
+note,promotion,EG-04 -> EG-05
+note,basic_fixation,179770 -> 194080 (lowest higher stage 184840 + 1 increment 9240)
+note,designation_assumed,DIRECTOR
+note,fuel_source,carried from Mar-2026 (price-dependent)
+note,income_tax_source,"slab calc on annualised earnings 9,422,976"
